@@ -26,7 +26,7 @@ The dataset can be found in the following link: https://archive.ics.uci.edu/ml/d
 4. Estimation of random variable distribution parameters using maximum likelihood technique and LS methods.
 5. Validation of empirical and theoretical distributions using quantile biplots.
 6. Statistical tests.
-The link for the source file: https://github.com/neematAllosh/MultiderivativeDataAnalysis/blob/master/lab_01.ipynb
+7. The link for the source file: https://github.com/neematAllosh/MultiderivativeDataAnalysis/blob/master/lab_01.ipynb
 
 # The tasks performed in the file: lab_02
 ## 'Analysis of multivariate random variables'
@@ -36,8 +36,8 @@ The link for the source file: https://github.com/neematAllosh/MultiderivativeDat
 4. Estimation of pair correlation coefficients, confidence intervals for them and significance levels .
 5. Task formulation for regression, multivariate correlation.
 6. Regression model,multicollinearity and regularization.
-7. Quality analysis
-The link for the source file: https://github.com/neematAllosh/MultiderivativeDataAnalysis/blob/master/lab_02.ipynb
+7. Quality analysis.
+8. The link for the source file: https://github.com/neematAllosh/MultiderivativeDataAnalysis/blob/master/lab_02.ipynb
 
 # The tasks performed in the file: lab_03
 ## 'Sampling of multivariate random variables'
@@ -50,8 +50,8 @@ The link for the source file: https://github.com/neematAllosh/MultiderivativeDat
 4.1. Manual Bayesian network.
 4.2. Structural learning model: Hill-Climbing with K2 score function.
 4.3. Structural learning model: Search strategy PC algorithms with MI score function.
-5. Quality analysis
-The link for the source file: https://github.com/neematAllosh/MultiderivativeDataAnalysis/blob/master/lab_03.ipynb
+5. Quality analysis.
+6. The link for the source file: https://github.com/neematAllosh/MultiderivativeDataAnalysis/blob/master/lab_03.ipynb
 
 # The tasks performed in the file: lab_04 
 ## 'Stationarity of the processes'
@@ -66,4 +66,4 @@ The link for the source file: https://github.com/neematAllosh/MultiderivativeDat
 6.3 Train a SARIMA model with the values of variable (T_out).
 6.4 Train a SARIMA model with the filtered values of variable (T_out).
 7. Model in a form of linear dynamical system.
-The link for the source file: https://github.com/neematAllosh/MultiderivativeDataAnalysis/blob/master/lab_04.ipynb
+8. The link for the source file: https://github.com/neematAllosh/MultiderivativeDataAnalysis/blob/master/lab_04.ipynb
