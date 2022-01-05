@@ -2,7 +2,8 @@
 Implementing Tasks in Python Programming Language.
 The tasks are assignments for Academical Course : "Methods and Models for Multivariate Data Analysis" in ITMO university.
 
-# The analyzed Dataset “House Appliances Energy Dataset”
+# The analyzed Dataset
+## “House Appliances Energy Dataset”
 It is an experimental data used to create regression models of appliances energy use in a low energy
 building.
 The dataset contains 29 different features; all features are continuous except one. There are 19735
@@ -17,7 +18,8 @@ record in the dataset with no missing values. The information in the data are:
 - The variables are in celsius, in watt, or in percentage. The data is measured each ten minutes for about 4.5 months.
 The dataset can be found in the following link: https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction
 
-# The tasks performed in the file: lab_01 'Analysis of univariate random variables'
+# The tasks performed in the file: lab_01
+## 'Analysis of univariate random variables'
 1.Plotting a non-parametric estimation of PDF. 
 2.Order statistics estimation and its representation as “box with whiskers” plot. 
 3.Selection of theoretical distributions that best reflect empirical data.
@@ -26,7 +28,8 @@ The dataset can be found in the following link: https://archive.ics.uci.edu/ml/d
 6. Statistical tests.
 The link for the source file: https://github.com/neematAllosh/MultiderivativeDataAnalysis/blob/master/lab_01.ipynb
 
-# The tasks performed in the file: lab_02 'Analysis of multivariate random variables'
+# The tasks performed in the file: lab_02
+## 'Analysis of multivariate random variables'
 1.Non-parametric estimation of PDF in form of a histogram and kernel density function.
 2.Estimation of multivariate mathematical expectation and variance.
 3.Non-parametric estimation of conditional distributions, mathematical expectations and variances.
@@ -36,7 +39,8 @@ The link for the source file: https://github.com/neematAllosh/MultiderivativeDat
 7. Quality analysis
 The link for the source file: https://github.com/neematAllosh/MultiderivativeDataAnalysis/blob/master/lab_02.ipynb
 
-# The tasks performed in the file: lab_03 'Sampling of multivariate random variables'
+# The tasks performed in the file: lab_03
+## 'Sampling of multivariate random variables'
 1.Substantiation of chosen subsample.
 2.Sampling of chosen target variables using univariate parametric distributions with 2 different sampling methods.
 2.1. Inverse transform sampling.
@@ -49,7 +53,8 @@ The link for the source file: https://github.com/neematAllosh/MultiderivativeDat
 5.Quality analysis
 The link for the source file: https://github.com/neematAllosh/MultiderivativeDataAnalysis/blob/master/lab_03.ipynb
 
-# The tasks performed in the file: lab_04 'Stationarity of the processes'
+# The tasks performed in the file: lab_04 
+## 'Stationarity of the processes'
 1. Substantiation of chosen sampling.
 2. Stationary analysis.
 3. Covariance or correlation function analysis.
