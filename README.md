@@ -20,20 +20,20 @@ The dataset can be found in the following link: https://archive.ics.uci.edu/ml/d
 
 # The tasks performed in the file: lab_01
 ## 'Analysis of univariate random variables'
-1.Plotting a non-parametric estimation of PDF. 
-2.Order statistics estimation and its representation as “box with whiskers” plot. 
-3.Selection of theoretical distributions that best reflect empirical data.
-4.Estimation of random variable distribution parameters using maximum likelihood technique and LS methods.
+1. Plotting a non-parametric estimation of PDF.
+2. Order statistics estimation and its representation as “box with whiskers” plot.
+3. Selection of theoretical distributions that best reflect empirical data.
+4. Estimation of random variable distribution parameters using maximum likelihood technique and LS methods.
 5. Validation of empirical and theoretical distributions using quantile biplots.
 6. Statistical tests.
 The link for the source file: https://github.com/neematAllosh/MultiderivativeDataAnalysis/blob/master/lab_01.ipynb
 
 # The tasks performed in the file: lab_02
 ## 'Analysis of multivariate random variables'
-1.Non-parametric estimation of PDF in form of a histogram and kernel density function.
-2.Estimation of multivariate mathematical expectation and variance.
-3.Non-parametric estimation of conditional distributions, mathematical expectations and variances.
-4.Estimation of pair correlation coefficients, confidence intervals for them and significance levels .
+1. Non-parametric estimation of PDF in form of a histogram and kernel density function.
+2. Estimation of multivariate mathematical expectation and variance.
+3. Non-parametric estimation of conditional distributions, mathematical expectations and variances.
+4. Estimation of pair correlation coefficients, confidence intervals for them and significance levels .
 5. Task formulation for regression, multivariate correlation.
 6. Regression model,multicollinearity and regularization.
 7. Quality analysis
@@ -41,16 +41,16 @@ The link for the source file: https://github.com/neematAllosh/MultiderivativeDat
 
 # The tasks performed in the file: lab_03
 ## 'Sampling of multivariate random variables'
-1.Substantiation of chosen subsample.
-2.Sampling of chosen target variables using univariate parametric distributions with 2 different sampling methods.
+1. Substantiation of chosen subsample.
+2. Sampling of chosen target variables using univariate parametric distributions with 2 different sampling methods.
 2.1. Inverse transform sampling.
 2.2. Accept-Reject Sampling.
 3. Estimation of relations between predictors and chosen target variables.
-4.Bayesian networks.
+4. Bayesian networks.
 4.1. Manual Bayesian network.
 4.2. Structural learning model: Hill-Climbing with K2 score function.
 4.3. Structural learning model: Search strategy PC algorithms with MI score function.
-5.Quality analysis
+5. Quality analysis
 The link for the source file: https://github.com/neematAllosh/MultiderivativeDataAnalysis/blob/master/lab_03.ipynb
 
 # The tasks performed in the file: lab_04 
