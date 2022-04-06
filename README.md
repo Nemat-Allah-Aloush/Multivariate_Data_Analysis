@@ -18,6 +18,8 @@ record in the dataset with no missing values. The information in the data are:
 - The variables are in celsius, in watt, or in percentage. The data is measured each ten minutes for about 4.5 months.
 The dataset can be found in the following link: https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction
 
+----------
+
 ### The tasks performed in the file: [lab_01](https://github.com/Nemat-Allah-Aloush/Multivariate_Data_Analysis/blob/master/1.Analysis%20of%20univariate%20random%20variables/lab_01.ipynb)
 #### 'Analysis of univariate random variables'
 1. Plotting a non-parametric estimation of PDF.
@@ -26,6 +28,8 @@ The dataset can be found in the following link: https://archive.ics.uci.edu/ml/d
 4. Estimation of random variable distribution parameters using maximum likelihood technique and LS methods.
 5. Validation of empirical and theoretical distributions using quantile biplots.
 6. Statistical tests.
+
+----------
 
 ### The tasks performed in the file: [lab_02](https://github.com/Nemat-Allah-Aloush/Multivariate_Data_Analysis/blob/master/2.Analysis%20of%20multivariate%20random%20variables/lab_02.ipynb)
 #### 'Analysis of multivariate random variables'
@@ -37,6 +41,7 @@ The dataset can be found in the following link: https://archive.ics.uci.edu/ml/d
 6. Regression model,multicollinearity and regularization.
 7. Quality analysis.
 
+----------
 
 ### The tasks performed in the file: [lab_03](https://github.com/Nemat-Allah-Aloush/Multivariate_Data_Analysis/blob/master/3.Sampling%20of%20multivariate%20random%20variables/lab_03.ipynb)
 #### 'Sampling of multivariate random variables'
@@ -51,6 +56,7 @@ The dataset can be found in the following link: https://archive.ics.uci.edu/ml/d
 4.3. Structural learning model: Search strategy PC algorithms with MI score function.
 5. Quality analysis.
 
+-----------
 
 ### The tasks performed in the file: [lab_04](https://github.com/Nemat-Allah-Aloush/Multivariate_Data_Analysis/blob/master/4.Stationarity%20of%20the%20processes/lab_04.ipynb)
 #### 'Stationarity of the processes'
