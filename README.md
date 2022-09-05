@@ -4,8 +4,10 @@ The tasks are assignments for Academical Course : "Methods and Models for Multiv
 
 ## Index
 1. [The analyzed Dataset](#the-analyzed-dataset)
-2. [Used software and Requirments](#the-tasks-performed-in-the-file:-[lab_01](https://github.com/Nemat-Allah-Aloush/Multivariate_Data_Analysis/blob/master/1.Analysis%20of%20univariate%20random%20variables/lab_01.ipynb))
-4. [Results: A senario](#results-a-senario)
+2. [The tasks performed in the file: lab_01](#the-tasks-performed-in-the-file-lab_01)
+3. [The tasks performed in the file: lab_02](#the-tasks-performed-in-the-file-lab_02)
+4. [The tasks performed in the file: lab_03](#the-tasks-performed-in-the-file-lab_03)
+5. [The tasks performed in the file: lab_04](#the-tasks-performed-in-the-file-lab_04)
 
 ---
 ### The analyzed Dataset
