@@ -2,6 +2,12 @@
 Implementing Tasks in Python Programming Language.
 The tasks are assignments for Academical Course : "Methods and Models for Multivariate Data Analysis" in ITMO university.
 
+## Index
+1. [The analyzed Dataset](#the-analyzed-dataset)
+2. [Used software and Requirments](#the-tasks-performed-in-the-file:-[lab_01](https://github.com/Nemat-Allah-Aloush/Multivariate_Data_Analysis/blob/master/1.Analysis%20of%20univariate%20random%20variables/lab_01.ipynb))
+4. [Results: A senario](#results-a-senario)
+
+---
 ### The analyzed Dataset
 #### “House Appliances Energy Dataset”
 It is an experimental data used to create regression models of appliances energy use in a low energy
@@ -16,7 +22,7 @@ record in the dataset with no missing values. The information in the data are:
 - Date and time of measuring the variables. (1 column).
 
 - The variables are in celsius, in watt, or in percentage. The data is measured each ten minutes for about 4.5 months.
-The dataset can be found in the following link: https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction
+The dataset can be found, [here](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction).
 
 ----------
 
